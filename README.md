@@ -1,7 +1,7 @@
 # sobre mim
 
-- 👋 Olá meu nome é @alanacj
-- 🌱 Meu email de contato alanacarolini06@gmail.com
+- 👋 Olá meu nome é **@alanacj**
+- 🌱 Meu email de contato [email](alanacarolini06@gmail.com)
 - 👀 Estou interessada em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScripth Scratch
 - 💞️ 
